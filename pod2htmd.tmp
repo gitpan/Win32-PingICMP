@@ -1,4 +1,0 @@
-lib
-blib
-PingICMP lib/Win32/PingICMP.pm:
-Win32 lib/Win32:

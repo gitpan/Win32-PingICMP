@@ -1,0 +1,10 @@
+<SOFTPKG NAME="Win32-PingICMP" VERSION="0,50,0,0">
+    <TITLE>Win32-PingICMP</TITLE>
+    <ABSTRACT>ICMP Ping support for Win32 based on ICMP.DLL</ABSTRACT>
+    <AUTHOR>Toby Ovod-Everett, toby@ovod-everett.org</AUTHOR>
+    <IMPLEMENTATION>
+        <DEPENDENCY NAME="Data-BitMask" VERSION="0,0,0,0" />
+        <DEPENDENCY NAME="Win32-API" VERSION="0,0,0,0" />
+        <CODEBASE HREF="MSWin32-x86-multi-thread/Win32-PingICMP-0.50.tar.gz" />
+    </IMPLEMENTATION>
+</SOFTPKG>

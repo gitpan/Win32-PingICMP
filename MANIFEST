@@ -1,9 +1,0 @@
-Build.PL
-Changes
-demo.pl
-lib/Win32/PingICMP.pm
-MANIFEST			This list of files
-META.yml
-pod2htmd.tmp
-pod2htmi.tmp
-README
